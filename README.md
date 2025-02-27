@@ -1,4 +1,5 @@
 # Azure Kubernetes Service with Azure DevOps and Terraform 
+![image](https://github.com/user-attachments/assets/3b1856e8-f221-49a9-882c-4a8d30bf29e3)
 
 [![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform-bestseller.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
 
